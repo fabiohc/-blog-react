@@ -73,8 +73,7 @@ export const getStaticProps: GetStaticProps = async () => {
     fetch: ['UID.title', 'UID.subtitle', 'UID.author', 'UID.content'],
     pageSize: 100,
   })
-
-  console.log('postsResponse: ', JSON.stringify(postsResponse, null, 2));
+ 
 
   const postPagination = {
 
@@ -114,7 +113,6 @@ export const getStaticProps: GetStaticProps = async () => {
     postsPagination: postPagination
   }
 
-  console.log('passou aqui: ', JSON.stringify(postPagination, null, 2));
   return { props: { results, homeProps } };
 }
 
