@@ -1,0 +1,45 @@
+{
+  "id": "80e4f1b0-2198-4121-b024-4a9c84bdf21e",
+  "uid": "assumenda-minima-sint",
+  "type": "UID",
+  "data": {
+    "title": "deploy synergistic infrastructures",
+    "subtitle": "enhance value-added e-commerce",
+    "author": "unleash virtual metrics",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a?w=900&h=500&fit=crop"
+    },
+    "content2": {
+      "link_type": "Web",
+      "url": "https://slicemachine.dev"
+    },
+    "content": [
+      {
+        "heading": "expedite frictionless web services",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Qui laborum magna pariatur dolor velit ipsum labore. Amet sunt sit mollit occaecat id.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "integrate transparent portals",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Lorem est incididunt voluptate aliquip labore nostrud officia nulla dolore. Aliquip eiusmod ex exercitation sit duis ullamco ad mollit excepteur culpa duis deserunt enim.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
